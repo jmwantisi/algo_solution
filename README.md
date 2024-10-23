@@ -1,1 +1,1 @@
-Run `python3 tests.py` or  `python3 tests.py`
+Run `python3 tests.py` or  `python tests.py`
